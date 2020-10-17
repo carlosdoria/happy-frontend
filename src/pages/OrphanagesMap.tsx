@@ -8,15 +8,14 @@ import mapIcon from '../utils/mapIcon';
 import api from '../services/api';
 
 import * as S from '../styles/orphanateMap'
+interface Orphanage {
+  id: number;
+  name: string;
+  latitude: number;
+  longitude: number;
+}
 
 export default function OrphanagesMap () {
-
-  interface Orphanage {
-    id: number;
-    name: string;
-    latitude: number;
-    longitude: number;
-  }
 
   const [orphanages, setOrphanages] = useState<Orphanage[]>([])
 
