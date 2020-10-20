@@ -1,44 +1,87 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align='center'><strong>Happy - Front-end</strong></h1>
 
-## Available Scripts
+## Índice
 
-In the project directory, you can run:
+- [Sobre o Projeto](Sobre-o-Projeto)
+- [Tecnologias e ferramentas utilizadas](Tecnologias-e-ferramentas-utilizadas)
+- [Iniciando o projeto](Iniciando-o-projeto)
+- [Back-End](Back-End)
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![GitHub](https://img.shields.io/github/license/Programacao-Orientada-a-Estagiario-POE/hangman-game-backend-v2)
+<br>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/HomePage.png)
+![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/Map.png)
+![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/CreateOrphanage.png)
+![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/Orphanage.png)
 
-### `yarn test`
+## Sobre o Projeto
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O Happy é uma aplicação desenvolvida para conectar pessoas à casas de acolhimento de crianças, permitindo o cadastro e a visualização das informações de funcionamento dos orfanatos, para que as pessoas possam realizar visitas e fazer o dia de muitas crianças mais feliz. <br>
+Essa aplicação foi desenvolvida durante a 3º edição da Next Level Week da [Rocketseat](https://app.rocketseat.com.br/)
 
-### `yarn build`
+<br>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ## Deploy
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Link do deploy:
+[Deploy](https://pandao.github.io/editor.md/en.html)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br> -->
 
-### `yarn eject`
+## Tecnologias e ferramentas utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+O projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React;
+- HTML5;
+- CSS3;
+- ES6+;
+- Styled Components;
+- TypeScript.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Iniciando o projeto
 
-## Learn More
+No seu terminal, realize o clone deste respositório:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+git clone https://github.com/carlosdoria/nlw-03-frontend.git
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Em seguida entre no diretório:
+
+```
+cd nlw-03-frontend
+```
+
+Para rodar a aplicação execute o comando:
+
+```
+yarn start
+```
+
+Por fim,  caso o navegador não abra automaticamente uma aba com a aplicação, acesse o seguinte link:
+
+```
+http://localhost:3000
+```
+
+<!-- ## Como contribuir
+
+ -->
+
+ ## Back-End
+
+Esse projeto é integrado com back-end do seguinte repositório:
+
+[Link do repositório](https://github.com/carlosdoria/nlw-03-backend)
+
+<br>
+
+---
+
+Desenvolvido por @carlosdoria
