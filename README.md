@@ -2,20 +2,20 @@
 
 ## Índice
 
-- [Sobre o Projeto](Sobre-o-Projeto)
-- [Tecnologias e ferramentas utilizadas](Tecnologias-e-ferramentas-utilizadas)
-- [Iniciando o projeto](Iniciando-o-projeto)
-- [Back-End](Back-End)
+- [Sobre o Projeto](#-Sobre-o-Projeto)
+- [Tecnologias e ferramentas utilizadas](#-Tecnologias-e-ferramentas-utilizadas)
+- [Iniciando o projeto](#-Iniciando-o-projeto)
+- [Back-End](#-Back-End)
 
 <br>
 
 ![GitHub](https://img.shields.io/github/license/Programacao-Orientada-a-Estagiario-POE/hangman-game-backend-v2)
 <br>
 
-![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/HomePage.png)
-![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/Map.png)
-![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/CreateOrphanage.png)
-![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/tree/master/src/images/screenShots/Orphanage.png)
+![Print da Home Page](https://github.com/carlosdoria/nlw-03-frontend/blob/master/src/images/screenShots/HomePage.png)
+![Print da Page Map](https://github.com/carlosdoria/nlw-03-frontend/blob/master/src/images/screenShots/Map.png)
+![Print da Page create orphanage](https://github.com/carlosdoria/nlw-03-frontend/blob/master/src/images/screenShots/CreateOrphanage.png)
+![Print da Page orphanage](https://github.com/carlosdoria/nlw-03-frontend/blob/master/src/images/screenShots/Orphanage.png)
 
 ## Sobre o Projeto
 
