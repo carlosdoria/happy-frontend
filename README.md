@@ -84,4 +84,4 @@ Esse projeto é integrado com back-end do seguinte repositório:
 
 ---
 
-Desenvolvido por @carlosdoria
+Desenvolvido por [Carlos Dória](https://github.com/carlosdoria)
