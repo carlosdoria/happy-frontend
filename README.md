@@ -2,10 +2,10 @@
 
 ## Índice
 
-- [Sobre o Projeto](sobre-o-projeto)
-- [Tecnologias e ferramentas utilizadas](tecnologias-e-ferramentas-utilizadas)
-- [Iniciando o projeto](iniciando-o-projeto)
-- [Back-End](back-end)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Tecnologias e ferramentas utilizadas](#tecnologias-e-ferramentas-utilizadas)
+- [Iniciando o projeto](#iniciando-o-projeto)
+- [Back-End](#back-end)
 
 <br>
 
