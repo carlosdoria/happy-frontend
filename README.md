@@ -24,12 +24,11 @@ Essa aplicação foi desenvolvida durante a 3º edição da Next Level Week da [
 
 <br>
 
-<!-- ## Deploy
+## Deploy
 
-Link do deploy:
-[Deploy](https://pandao.github.io/editor.md/en.html)
+[Link do deploy](https://happy-app-deploy.netlify.app)
 
-<br> -->
+<br>
 
 ## Tecnologias e ferramentas utilizadas
 
